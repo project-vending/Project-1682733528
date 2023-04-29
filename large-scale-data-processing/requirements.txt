@@ -1,0 +1,5 @@
+
+pyspark==<version>
+streamlit==<version>
+fastapi==<version>
+s3fs==<version>
